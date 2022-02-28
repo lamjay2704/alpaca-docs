@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/palamajay35/b08c004a-4ce9-4d7a-bf47-a86201436f2b/716c2631-a480-4e55-9615-eca214f5dc07/_apis/work/boardbadge/2aa4742e-1e6e-4c89-b867-1604cafceb2f)](https://dev.azure.com/palamajay35/b08c004a-4ce9-4d7a-bf47-a86201436f2b/_boards/board/t/716c2631-a480-4e55-9615-eca214f5dc07/Microsoft.RequirementCategory)
 # alpaca-docs
 
 Developer documentation for Alpaca API's.
